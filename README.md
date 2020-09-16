@@ -17,3 +17,24 @@ Markdown是一种超文本语言，今天我第一次学习了它。
 有点意思，下面这张gif可以形容我的心情：   
 
    ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+
+# **今天学习了Git提交三部曲**
+
+提交第一步：
+
+    git add -A
+    
+提交第二部：
+
+    git commit -m "本次提交的修改备注"
+提交第三步：
+1. 第一次提交到本分支：
+
+    git push origin master
+    
+2. 第2-n次提交到本分支
+
+    git push
+ 
+3. git pull
+    
